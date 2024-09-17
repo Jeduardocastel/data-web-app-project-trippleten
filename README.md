@@ -1,1 +1,1 @@
-
+Este proyecto se realizó con información de in conjunto de datos de anuncios de ventas de coches. Las tareas incluyeron la creación y gestión de entornos virtuales de Python, el desarrollo de una aplicación web. Para poder acceder a la aplicación web, se puede a través del siguiente enlace: "https://data-web-app-project-trippleten.onrender.com" 
